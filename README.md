@@ -39,3 +39,8 @@ This project analyzes a SaaS business using SQL and Power BI to track revenue, c
 - PowerBI/ → Power BI dashboard (.pbix)
 - SQL/ → SQL queries used for analysis
 - Screenshots/ → Dashboard visuals
+
+## Dashboard Preview
+![Dashboard_overview.png](Churn_retention.png)
+![Revenue_overview.png]( Revenue_analysis.png)
+ ![SaaS-Subscription-Analysis]/(Overview.png).
